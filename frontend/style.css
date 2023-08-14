@@ -1,0 +1,18 @@
+.tableHeadTh__style {
+  transition: background-color;
+  cursor: pointer;
+}
+
+.tableHeadTh__style:hover {
+  background-color: gray;
+}
+
+.tableHeadTh__style:active {
+  background-color: red;
+}
+
+.filterForm {
+  outline: 2px solid black;
+  outline-offset: 5px;
+  border-radius: 6px;
+}
